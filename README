@@ -1,0 +1,6 @@
+Collection of three pyhton scripts to
+- Build a tweet archive for since to until for q and analyse the stream distributions, networks of mentions, wordclouds  (tweetarchive.ipynb)
+- Do a similarity analysis with the help of spacy and a cosine-similarity function (similarity.ipynb)
+- Perform a simple sentiment analysis with the help of nltk polarity assessments of words (SentimentAnalysisTwitterStream.ipynb)
+
+Output files are also uploaded 
